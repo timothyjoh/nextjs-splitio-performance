@@ -26,3 +26,7 @@ Gzipped size is about equal to all of React gzipped, but the stat size is MUCH h
 ## Analysis
 
 All the `.next` production build files are included here in the repo, so you can see these generated analysis HTML files and look through the builds yourself.
+
+You can look here to see the branch comparison, but scroll down past all the `.next` build files and just look at the last 2 files for the difference.
+
+https://github.com/timothyjoh/nextjs-splitio-performance/compare/wif-split
